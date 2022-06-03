@@ -1,0 +1,9 @@
+C:\Users\Wesley\source\repos\M3UEditor\bin\Debug\M3UEditor.exe.config
+C:\Users\Wesley\source\repos\M3UEditor\bin\Debug\M3UEditor.exe
+C:\Users\Wesley\source\repos\M3UEditor\bin\Debug\M3UEditor.pdb
+C:\Users\Wesley\source\repos\M3UEditor\obj\Debug\M3UEditor.Form1.resources
+C:\Users\Wesley\source\repos\M3UEditor\obj\Debug\M3UEditor.Properties.Resources.resources
+C:\Users\Wesley\source\repos\M3UEditor\obj\Debug\M3UEditor.csproj.GenerateResource.cache
+C:\Users\Wesley\source\repos\M3UEditor\obj\Debug\M3UEditor.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\source\repos\M3UEditor\obj\Debug\M3UEditor.exe
+C:\Users\Wesley\source\repos\M3UEditor\obj\Debug\M3UEditor.pdb
